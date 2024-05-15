@@ -24,22 +24,28 @@ A simple Node.js API for managing books.
 Screenshots of the API in action are provided below:
 
 1. **GET Request for All Books**:
-    ![alt text](<Screenshot from 2024-05-15 01-28-02.png>)
+
+![alt text](<Screenshot from 2024-05-15 01-28-02.png>)
 
 2. **GET Request for a Single Book**:
-    ![alt text](image.png)
+
+![alt text](image.png)
 
 3. **POST Request to Add a New Book**:
-    ![alt text](image-4.png)
+
+![alt text](image-4.png)
 
 4. **PUT Request to Update a Book**:
-    ![alt text](image-1.png)
+
+![alt text](image-1.png)
 
 5. **PATCH Request to Partially Update a Book**:
-    ![alt text](image-2.png)
+
+![alt text](image-2.png)
 
 6. **DELETE Request**:
-    ![alt text](image-3.png)
+
+![alt text](image-3.png)
 
 
 ## Updates and Features

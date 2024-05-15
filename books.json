@@ -1,12 +1,6 @@
 [
   {
     "id": 4,
-    "book_title": "Maze runner",
-    "Author": "J. K. Rowling",
-    "available": true
-  },
-  {
-    "id": 4,
     "book_title": "Harry Potter",
     "author": "Monu Tamang",
     "available": true,
@@ -20,12 +14,6 @@
   },
   {
     "id": 4,
-    "book_title": "MY HOMETOWN",
-    "Author": "J. K. Rowling",
-    "available": true
-  },
-  {
-    "id": 5,
     "book_title": "MY HOMETOWN",
     "Author": "J. K. Rowling",
     "available": true
